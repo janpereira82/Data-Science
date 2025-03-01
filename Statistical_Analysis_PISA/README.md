@@ -266,9 +266,10 @@ pip install -r requirements.txt
 - scikit-learn
 
 ## Contribuições
-
 Contribuições são bem-vindas! Por favor, sinta-se à vontade para abrir issues ou enviar pull requests.
 
 ## Licença
-
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para detalhes.
+
+## Autor
+[Jan Pereira](https://github.com/janpereira82)
