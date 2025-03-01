@@ -115,8 +115,5 @@ Este projeto realiza uma análise estatística abrangente dos dados de seguranç
 3. Execute os notebooks na ordem numérica
 4. Consulte o relatório final em `reports/statistical_analysis_summary.pdf`
 
-## 👥 Autor
-[Seu Nome]
-
 ## 📄 Licença
 Este projeto está sob a licença MIT.
