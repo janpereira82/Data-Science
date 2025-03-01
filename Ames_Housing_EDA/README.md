@@ -28,6 +28,7 @@ Este projeto realiza uma análise exploratória detalhada do conjunto de dados A
 - Variáveis categóricas foram codificadas usando Label Encoding e One-Hot Encoding
 
 ## Estrutura do Projeto
+```markdown
 📦 Ames_Housing_EDA
  ┣ 📂 data
  ┃ ┣ 📄 ames_housing.csv
@@ -42,6 +43,7 @@ Este projeto realiza uma análise exploratória detalhada do conjunto de dados A
  ┣ 📄 README.md
  ┣ 📄 requirements.txt
  ┣ 📄 main.py
+```
 
 ## Metodologia
 A análise está dividida em cinco etapas principais:
