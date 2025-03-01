@@ -63,3 +63,6 @@ pip install -r requirements.txt
 
 ## Resultados
 Os resultados detalhados podem ser encontrados nos notebooks e no relatório final em `reports/feature_engineering_summary.pdf`.
+
+## Autor
+[Jan Pereira](https://github.com/janpereira82)
