@@ -76,8 +76,5 @@ pip install -r requirements.txt
 4. Melhorias na cozinha e acabamento exterior podem aumentar significativamente o valor do imóvel
 5. O dataset está bem preparado para futuros projetos de modelagem preditiva
 
-## Status do Projeto
-✅ Concluído
-
 ## Autor
 [Jan Pereira](https://github.com/janpereira82)
