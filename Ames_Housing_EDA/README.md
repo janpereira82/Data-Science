@@ -81,6 +81,3 @@ pip install -r requirements.txt
 
 ## Autor
 [Jan Pereira](https://github.com/janpereira82)
-
-## Data de Conclusão
-01/03/2025
