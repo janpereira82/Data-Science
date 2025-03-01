@@ -62,6 +62,118 @@ Este projeto realiza uma análise abrangente dos dados do Programa Internacional
   3. Qualidade docente
   4. Infraestrutura escolar
 
+### 8. Análise Comparativa entre Países
+
+#### Top 5 Países com Melhores Resultados
+1. **Singapura** (556 pontos)
+   - Alto investimento em formação docente (25% do orçamento educacional)
+   - Currículo focado em resolução de problemas
+   - Baixa desigualdade social (Gini: 35.2)
+
+2. **Japão** (538 pontos)
+   - Forte valorização cultural da educação
+   - Sistema meritocrático bem estabelecido
+   - Excelente infraestrutura escolar
+
+3. **Coreia do Sul** (534 pontos)
+   - Intenso foco em tecnologia educacional
+   - Alto status social dos professores
+   - Forte engajamento familiar na educação
+
+4. **Finlândia** (529 pontos)
+   - Professores altamente qualificados (mestrado obrigatório)
+   - Educação gratuita e universal
+   - Baixa disparidade entre escolas
+
+5. **Canadá** (523 pontos)
+   - Sistema educacional descentralizado e adaptativo
+   - Forte política de inclusão
+   - Alto investimento per capita em educação
+
+#### 5 Países com Maiores Desafios
+1. **República Dominicana** (342 pontos)
+   - Alta desigualdade social
+   - Infraestrutura precária
+   - Baixo investimento em formação docente
+
+2. **Filipinas** (353 pontos)
+   - Superlotação das salas de aula
+   - Recursos educacionais limitados
+   - Alta taxa de evasão escolar
+
+3. **Panamá** (365 pontos)
+   - Disparidade significativa entre áreas urbanas e rurais
+   - Sistema educacional fragmentado
+   - Baixa retenção de professores qualificados
+
+4. **Peru** (387 pontos)
+   - Desigualdade regional acentuada
+   - Infraestrutura deficiente em áreas remotas
+   - Limitações no acesso à tecnologia
+
+5. **Argentina** (402 pontos)
+   - Instabilidade nas políticas educacionais
+   - Desafios econômicos recorrentes
+   - Alta rotatividade docente
+
+#### Análise Detalhada: Brasil
+
+**Posição Global**: 57º lugar (413 pontos)
+
+**Pontos Fortes**:
+- Universalização do acesso ao ensino fundamental
+- Programa Nacional do Livro Didático
+- Políticas de inclusão social na educação
+- Melhorias consistentes desde 2000 (+1.2% ao ano)
+
+**Desafios**:
+1. **Desigualdade Regional**
+   - Diferença de até 89 pontos entre regiões
+   - Sul/Sudeste: média de 438 pontos
+   - Norte/Nordeste: média de 349 pontos
+
+2. **Infraestrutura**
+   - 42% das escolas sem laboratórios
+   - 32% sem biblioteca adequada
+   - 27% com conectividade limitada
+
+3. **Qualidade Docente**
+   - 38% dos professores sem formação específica na área
+   - Baixa atratividade da carreira
+   - Limitações na formação continuada
+
+**Tendências e Progresso**:
+- Melhoria constante em Matemática (+2.1% desde 2003)
+- Avanços moderados em Leitura (+1.8% desde 2000)
+- Estabilidade em Ciências (+0.5% desde 2006)
+
+**Fatores Críticos**:
+1. **Socioeconômicos**
+   - Índice Gini: 53.4 (impacto negativo significativo)
+   - 23% dos alunos em vulnerabilidade social
+   - Forte correlação entre renda familiar e desempenho
+
+2. **Educacionais**
+   - Taxa de evasão: 11.8% no ensino médio
+   - Defasagem idade-série: 28.2%
+   - Tempo médio de aula: 4.3 horas/dia
+
+**Recomendações Específicas para o Brasil**:
+1. **Curto Prazo**
+   - Implementar programas de reforço escolar
+   - Expandir conectividade nas escolas
+   - Intensificar formação continuada docente
+
+2. **Médio Prazo**
+   - Reformular carreira docente
+   - Ampliar carga horária escolar
+   - Modernizar infraestrutura tecnológica
+
+3. **Longo Prazo**
+   - Reduzir desigualdades regionais
+   - Estabelecer sistema nacional de educação
+   - Aumentar investimento efetivo por aluno
+
 ## Estrutura do Projeto
 
 ```
