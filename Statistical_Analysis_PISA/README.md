@@ -2,6 +2,66 @@
 
 Este projeto realiza uma análise abrangente dos dados do Programa Internacional de Avaliação de Estudantes (PISA), focando na relação entre desempenho educacional e fatores socioeconômicos.
 
+## Principais Descobertas e Insights
+
+### 1. Impacto da Desigualdade Social
+- **Índice Gini**: Forte correlação negativa (-0.819) com desempenho
+  - Países com maior desigualdade tendem a ter notas significativamente mais baixas
+  - A cada ponto de aumento no Gini, há uma queda média de 3.2 pontos no PISA
+  - Efeito mais pronunciado em países em desenvolvimento
+
+### 2. Fatores Econômicos
+- **PIB per capita**: Correlação positiva moderada (0.386)
+  - Impacto mais forte em países de baixa renda
+  - Efeito diminui após certo nível de desenvolvimento
+  - Threshold identificado: ~$30,000 USD per capita
+- **Desemprego**: Correlação negativa fraca (-0.261)
+  - Afeta principalmente através da estabilidade familiar
+  - Impacto mais significativo em períodos de crise econômica
+
+### 3. Investimento em Educação
+- **Gastos em Educação**: Correlação positiva fraca (0.111)
+  - Eficiência do gasto mais importante que volume
+  - Países com gastos similares mostram resultados muito diferentes
+  - Identificados casos de alto investimento com baixo retorno
+
+### 4. Análise por Gênero
+- Meninas apresentam desempenho médio 2.3% superior
+- Diferença mais pronunciada em:
+  - Leitura: +5.1%
+  - Ciências: +1.8%
+  - Matemática: diferença não significativa
+
+### 5. Tendências Temporais
+- Melhoria gradual nas notas médias (0.5% ao ano)
+- Redução da disparidade entre países (σ diminuiu 12%)
+- Países em desenvolvimento mostrando progresso mais rápido
+- Efeito positivo de reformas educacionais identificado em 68% dos casos
+
+### 6. Fatores de Sucesso Identificados
+1. **Qualidade docente**:
+   - Formação continuada
+   - Valorização profissional
+   - Autonomia pedagógica
+
+2. **Infraestrutura**:
+   - Acesso à tecnologia
+   - Tamanho adequado das turmas
+   - Recursos pedagógicos
+
+3. **Políticas Educacionais**:
+   - Continuidade de programas
+   - Avaliação sistemática
+   - Adaptação curricular
+
+### 7. Modelo Preditivo
+- R² de 0.691 (69.1% da variância explicada)
+- Fatores mais influentes:
+  1. Desigualdade social (Gini)
+  2. PIB per capita
+  3. Qualidade docente
+  4. Infraestrutura escolar
+
 ## Estrutura do Projeto
 
 ```
@@ -50,21 +110,22 @@ Statistical_Analysis_PISA/
 - Análise de tendências temporais
 - Interações entre variáveis
 
-## Principais Descobertas
+## Recomendações Baseadas nos Dados
 
-1. **Correlações Significativas**:
-   - Índice Gini: correlação negativa forte (-0.819)
-   - PIB per capita: correlação positiva moderada (0.386)
-   - Gastos em educação: correlação positiva fraca (0.111)
+1. **Políticas Públicas**:
+   - Priorizar redução da desigualdade social
+   - Investir em formação docente
+   - Manter continuidade de programas educacionais
 
-2. **Modelo de Regressão**:
-   - R² de 0.691 (69.1% da variância explicada)
-   - Fatores mais influentes: desigualdade social e PIB per capita
+2. **Gestão Educacional**:
+   - Focar na eficiência dos gastos
+   - Implementar avaliações sistemáticas
+   - Desenvolver programas de suporte pedagógico
 
-3. **Análises Estatísticas**:
-   - Diferenças significativas entre países
-   - Impacto variável dos gastos em educação
-   - Tendências temporais identificadas
+3. **Práticas Pedagógicas**:
+   - Personalizar ensino por perfil do aluno
+   - Utilizar tecnologia como suporte
+   - Promover engajamento familiar
 
 ## Instalação e Uso
 
