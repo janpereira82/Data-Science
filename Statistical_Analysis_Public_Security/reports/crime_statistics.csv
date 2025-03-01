@@ -1,0 +1,12 @@
+,Ocorrências,Ocorrências,Ocorrências,Ocorrências,Ocorrências
+,count,mean,std,min,max
+Tipo Crime,,,,,
+Estupro,1779,139.91,185.21,0,1306
+Furto de veículo,1773,765.97,1579.21,0,10518
+Homicídio doloso,1776,145.76,123.29,1,597
+Lesão corporal seguida de morte,1757,2.63,3.98,0,39
+Roubo a instituição financeira,1731,2.71,3.34,0,21
+Roubo de carga,1722,66.86,195.03,0,1329
+Roubo de veículo,1774,727.03,1173.42,0,7970
+Roubo seguido de morte (latrocínio),1779,6.18,6.2,0,39
+Tentativa de homicídio,1777,118.8,109.35,0,528
