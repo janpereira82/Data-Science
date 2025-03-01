@@ -117,3 +117,6 @@ Este projeto realiza uma análise estatística abrangente dos dados de seguranç
 
 ## 📄 Licença
 Este projeto está sob a licença MIT.
+
+## Autor
+[Jan Pereira](https://github.com/janpereira82)
