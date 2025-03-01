@@ -1,0 +1,37 @@
+{
+    "basic_statistics": {
+        "total_countries": 39,
+        "year_range": [
+            2003,
+            2018
+        ],
+        "avg_rating": 489.31191798107255,
+        "rating_std": 37.68972466378349
+    },
+    "education_spending_analysis": {
+        "correlation": 0.11116177408988495,
+        "avg_by_spending_level": {
+            "Low": 484.3330133333334,
+            "Medium-Low": 490.6005838926174,
+            "Medium-High": 486.31315894039733,
+            "High": 494.41204729729725
+        }
+    },
+    "socioeconomic_factors": {
+        "gini_index": -0.8188207358338667,
+        "gdp_per_capita_ppp": 0.3855982572876028,
+        "unemployment": -0.26067831688784837,
+        "urban_population_pct_total": 0.0067775130501206505
+    },
+    "regression_model": {
+        "r2_score": 0.6913108954245784,
+        "mse": 442.62336798542793,
+        "feature_importance": {
+            "expenditure_on _education_pct_gdp": -0.5416560829125872,
+            "gdp_per_capita_ppp": 3.7557334357044088,
+            "gini_index": -26.461773969933944,
+            "unemployment": -1.9970161752513151,
+            "urban_population_pct_total": 0.3104563990893219
+        }
+    }
+}

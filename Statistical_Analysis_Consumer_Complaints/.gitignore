@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+<<<<<<< HEAD
+=======
+wheels/
+>>>>>>> 396b32cd2a95b62a3db0bbf13e335fb9554212ec
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+<<<<<<< HEAD
+
+# VS Code
+.vscode/
+=======
+*/.ipynb_checkpoints/*
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+>>>>>>> 396b32cd2a95b62a3db0bbf13e335fb9554212ec
+
+# Environment
+.env
+.venv
+venv/
+ENV/
+
+<<<<<<< HEAD
+# Data files (if they are too large or sensitive)
+data/*.json
+
+# Reports (if they contain sensitive information)
+# reports/
+
+# OS
+.DS_Store
+=======
+# Operating System
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+>>>>>>> 396b32cd2a95b62a3db0bbf13e335fb9554212ec
+Thumbs.db
