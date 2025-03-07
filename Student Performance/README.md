@@ -1,16 +1,43 @@
 # Análise de Desempenho dos Estudantes
 
 ## Sobre o Projeto
+
 Este projeto realiza uma análise detalhada do desempenho acadêmico dos estudantes, utilizando técnicas de análise exploratória de dados e machine learning em R. O projeto inclui visualizações interativas e um modelo preditivo de alto desempenho para prever as notas finais dos alunos.
 
 ## Pré-requisitos
 
 ### Instalação do R
-1. Acesse [R Project](https://www.r-project.org/)
-2. Clique em "download R"
-3. Escolha um mirror próximo à sua localização
-4. Selecione a versão adequada para seu sistema operacional
-5. Execute o instalador e siga as instruções
+
+Para utilizar este projeto, siga os passos abaixo para instalar e configurar o R no seu sistema:
+
+1. **Baixar e Instalar o R**  
+   - Acesse o site oficial do R: [https://cran.r-project.org/](https://cran.r-project.org/)
+   - Escolha a versão compatível com seu sistema operacional (Windows, macOS, Linux).
+   - Siga as instruções de instalação padrão.
+
+2. **Instalar o RStudio (Opcional, mas Recomendado)**  
+   - Baixe o RStudio em: [https://posit.co/download/rstudio-desktop/](https://posit.co/download/rstudio-desktop/)
+   - Instale seguindo as instruções do instalador.
+
+3. **Verificar a Instalação**  
+   - Abra o R ou RStudio e execute:
+     ```r
+     version
+     ```
+   - Isso exibirá a versão instalada do R.
+
+4. **Instalar Pacotes Necessários**  
+   - No console do R, instale os pacotes básicos para análise de dados:
+     ```r
+     install.packages(c("tidyverse", "caret", "ggplot2", "dplyr"))
+     ```
+   - Carregue os pacotes no seu script:
+     ```r
+     library(tidyverse)
+     library(caret)
+     library(ggplot2)
+     library(dplyr)
+     ```
 
 ## Variáveis do Dataset
 
@@ -50,5 +77,15 @@ Este projeto realiza uma análise detalhada do desempenho acadêmico dos estudan
 - Análise de correlações entre variáveis
 
 ## Como Utilizar
+O dataset está disponível em formato CSV e pode ser facilmente importado usando bibliotecas como pandas (Python), dplyr (R) ou qualquer outra ferramenta de análise de dados.
 
-O dataset está disponível em formato CSV e pode ser facilmente importado usando bibliotecas como pandas (Python), dplyr (R), ou qualquer outra ferramenta de análise de dados.
+## Autor
+[Jan Pereira](https://github.com/janpereira82)
+
+**Exemplo de Importação no R:**
+```r
+library(readr)
+dataset <- read_csv("dados_estudantes.csv")
+head(dataset)
+```
+Esse documento fornece todas as informações necessárias para começar a análise de desempenho dos estudantes com R.
