@@ -79,9 +79,6 @@ Para utilizar este projeto, siga os passos abaixo para instalar e configurar o R
 ## Como Utilizar
 O dataset está disponível em formato CSV e pode ser facilmente importado usando bibliotecas como pandas (Python), dplyr (R) ou qualquer outra ferramenta de análise de dados.
 
-## Autor
-[Jan Pereira](https://github.com/janpereira82)
-
 **Exemplo de Importação no R:**
 ```r
 library(readr)
@@ -89,3 +86,6 @@ dataset <- read_csv("dados_estudantes.csv")
 head(dataset)
 ```
 Esse documento fornece todas as informações necessárias para começar a análise de desempenho dos estudantes com R.
+
+## Autor
+[Jan Pereira](https://github.com/janpereira82)
